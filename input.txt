@@ -1,0 +1,9 @@
+int x=10;
+if(x%2==0)
+{
+printf("EVEN");
+}
+else
+{
+printf("ODD");
+}
